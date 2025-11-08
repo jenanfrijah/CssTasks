@@ -1,0 +1,62 @@
+body{
+   background-color: #179488;
+}
+  
+  a{
+    text-align: center !important;
+    text-decoration: none;
+    color: black;
+    font-weight: lighter;
+ }
+#logintext{
+    text-align: center;
+    font-weight: lighter;
+}
+#login{
+    background-color: #ffffff;
+    padding: 70px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); 
+    width: 350px; 
+    height: 400px;
+    margin-top:2%;
+    margin-bottom: 20px;
+    text-align: left;
+    align-items: center;
+    margin-left: 35%;
+    font-family: sans-serif;
+}
+
+.box{
+    width: 355px;
+    border-top: #fff ;
+    border-left: #fff;
+    border-right: #fff;
+    border-radius: 1px;
+    text-align:left;
+    margin-top:10px;
+    padding:5px;
+    margin-bottom: 12px;
+}
+
+ button{
+    display: block;
+    height: 45px;
+    width:355px;
+    background-color: #179488;
+    color: #fff;
+    border: none;
+    border-radius:5px;
+    margin-top:5%;
+    margin-left:1%;
+    font-size: 30px;
+    font-weight: bold;
+}
+label{
+    color: #148F82;
+}
+
+#Forgotpass{
+    text-align: center;
+    font-weight: lighter;
+}

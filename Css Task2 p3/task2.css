@@ -1,0 +1,68 @@
+body{
+    font-family: sans-serif;
+}
+
+#logintext{
+    color: #1AA87C;
+    text-align: center;
+    font-weight:lighter;
+}
+body{
+    background: linear-gradient( to bottom left, #1AA87C 0%,#8FE9C1 100% );
+    min-height: 100vh;
+    margin: 0;
+}
+#login{
+    background-color: #ffffff;
+    padding: 70px;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15); 
+    width: 350px; 
+    height: 400px;
+    margin-top:2%;
+    margin-bottom: 20px;
+    text-align: left;
+    align-items: center;
+    margin-left: 35%;
+    font-family: sans-serif;
+}
+
+.box{
+    box-shadow:#99c1b4;
+    width: 355px;
+    height:55px;
+    border: 1px #99c3b5 solid ;
+    border-radius: 1px;
+    text-align:left;
+    margin-top: 30px;
+    padding:5px;
+}
+
+button{
+    display: block;
+    height: 45px;
+    width:100px;
+    background-color: #1AA87C;
+    color: #fff;
+    border: none;
+    border-radius:5px;
+    margin-top:5%;
+    margin-left:38%;
+}
+
+#Forgotpass , #AccCheck{
+    display: flex;
+    justify-content: center;
+     color: rgb(120, 119, 119);
+}
+
+a{
+    text-decoration: none;
+    color:#1AA87C;
+    margin-left: 2%;
+    
+}
+
+label{
+    color: rgb(120, 119, 119);
+}
